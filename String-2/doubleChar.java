@@ -9,3 +9,4 @@ public String doubleChar(String str) {
   }
   return result;
 }
+
